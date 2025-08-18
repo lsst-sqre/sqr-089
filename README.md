@@ -1,11 +1,14 @@
 [![Website](https://img.shields.io/badge/sqr--089-lsst.io-brightgreen.svg)](https://sqr-089.lsst.io)
 [![CI](https://github.com/lsst-sqre/sqr-089/actions/workflows/ci.yaml/badge.svg)](https://github.com/lsst-sqre/sqr-089/actions/workflows/ci.yaml)
 
-# Towards a metrics harness for Phalanx applications
+# Metrics for Phalanx applications
 
 ## SQR-089
 
-This technote describes considerations towards obtaining semantically rich data collected from instrumented phalanx applications. 
+This technote describes solutions for collecting, storing, visualizing, and alerting on two different kinds of metrics for Phalanx applications:
+
+* Semantically-rich application metrics
+* Aggregated ephemeral operational metrics
 
 **Links:**
 
