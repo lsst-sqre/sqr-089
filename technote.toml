@@ -13,17 +13,19 @@ license.id = "CC-BY-4.0"
 state = "stable"
 
 [[technote.authors]]
-name.given = "Daniel"
-name.family = "Fuchs"
 internal_id = "fuchsds"
 orcid = "https://orcid.org/0009-0007-2454-1951"
+name = {given = "Dan C.", family = "Fuchs"}
 
+[[technote.authors.affiliations]]
+name = "SLAC National Accelerator Laboratory"
+internal_id = "SLAC"
+ror = "https://ror.org/05gzmn429"
 [[technote.authors]]
-name.given = "Frossie"
-name.family = "Economou"
 internal_id = "economouf"
 orcid = "https://orcid.org/0000-0002-8333-7615"
 
+name = {given = "Frossie", family = "Economou"}
 [[technote.authors.affiliations]]
 name = "SLAC National Accelerator Laboratory"
 internal_id = "SLAC"
@@ -33,6 +35,7 @@ address = "2575 Sand Hill Rd., Menlo Park, CA 94025, USA"
 name = "Vera C. Rubin Observatory Project Office"
 internal_id = "RubinObs"
 address = "950 N. Cherry Ave., Tucson, AZ 85719, USA"
+ror = "https://ror.org/048g3cy84"
 
 [[technote.status.superseding_urls]]
 url = "https://sqr-061.lsst.io/"
